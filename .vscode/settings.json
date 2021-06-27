@@ -1,0 +1,5 @@
+{
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "standard.autoFixOnSave": true,
+    "standard.engine": "semistandard"
+}
